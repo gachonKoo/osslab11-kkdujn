@@ -6,6 +6,6 @@ c= utils.hypotenuse(a,b)
 print('c =', c)
 
 #calculate the area of circle with radius r =10
-r = 10
+r =10
 area = utils.circle_area(r)
 print('area =', area)
